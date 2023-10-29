@@ -1,4 +1,6 @@
-package com.company.design.adapter;
+package com.company.design;
+
+import com.company.design.adapter.*;
 
 public class Main {
 
