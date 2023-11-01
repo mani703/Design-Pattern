@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" filepath="$PROJECT_DIR$/Decorator Pattern/Decorator Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" filepath="$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" filepath="$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" />
     </modules>
