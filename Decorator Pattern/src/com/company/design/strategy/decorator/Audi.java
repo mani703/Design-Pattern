@@ -1,4 +1,4 @@
-package com.company.design.decorator;
+package com.company.design.strategy.decorator;
 
 public class Audi implements ICar{
 

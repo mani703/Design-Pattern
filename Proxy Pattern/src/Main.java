@@ -1,7 +1,5 @@
-import com.company.design.aop.AopBrowser;
-import com.company.design.proxy.Browser;
-import com.company.design.proxy.BrowserProxy;
-import com.company.design.proxy.IBrowser;
+import com.company.design.strategy.aop.AopBrowser;
+import com.company.design.strategy.proxy.IBrowser;
 
 import java.util.concurrent.atomic.AtomicLong;
 

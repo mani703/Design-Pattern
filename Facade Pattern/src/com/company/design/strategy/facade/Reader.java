@@ -1,4 +1,4 @@
-package com.company.design.facade;
+package com.company.design.strategy.facade;
 
 public class Reader {
 

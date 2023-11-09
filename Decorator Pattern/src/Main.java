@@ -1,4 +1,4 @@
-import com.company.design.decorator.*;
+import com.company.design.strategy.decorator.*;
 
 public class Main {
 

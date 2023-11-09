@@ -1,4 +1,4 @@
-package com.company.design.Observer;
+package com.company.design.strategy.Observer;
 
 public class Button {
 

@@ -1,7 +1,7 @@
-import com.company.design.facade.Ftp;
-import com.company.design.facade.Reader;
-import com.company.design.facade.SftpClient;
-import com.company.design.facade.Writer;
+import com.company.design.strategy.facade.Ftp;
+import com.company.design.strategy.facade.Reader;
+import com.company.design.strategy.facade.SftpClient;
+import com.company.design.strategy.facade.Writer;
 
 public class Main {
 

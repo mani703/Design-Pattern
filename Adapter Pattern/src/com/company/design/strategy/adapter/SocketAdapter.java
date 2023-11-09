@@ -1,4 +1,4 @@
-package com.company.design.adapter;
+package com.company.design.strategy.adapter;
 
 public class SocketAdapter implements Electronic110V{
 

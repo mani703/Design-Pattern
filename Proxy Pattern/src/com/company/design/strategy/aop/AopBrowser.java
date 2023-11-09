@@ -1,7 +1,7 @@
-package com.company.design.aop;
+package com.company.design.strategy.aop;
 
-import com.company.design.proxy.Html;
-import com.company.design.proxy.IBrowser;
+import com.company.design.strategy.proxy.Html;
+import com.company.design.strategy.proxy.IBrowser;
 
 public class AopBrowser implements IBrowser {
 

@@ -1,5 +1,5 @@
-import com.company.design.Observer.Button;
-import com.company.design.Observer.IButtonListener;
+import com.company.design.strategy.Observer.Button;
+import com.company.design.strategy.Observer.IButtonListener;
 
 public class Main {
 

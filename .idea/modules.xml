@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" filepath="$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/Observer Pattern/Observer Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" filepath="$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" filepath="$PROJECT_DIR$/Strategy Pattern/Strategy Pattern.iml" />
     </modules>
   </component>
 </project>
